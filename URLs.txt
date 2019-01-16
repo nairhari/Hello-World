@@ -1,0 +1,39 @@
+
+
+PCPS API
+http://biappserver.jet2.com/J2BI.Holidays.PCPS.Content.Api/swagger/ui/index#!/Property/Property_Get
+
+http://biappserver.jet2.com/J2BI.Holidays.PCPS.Content.Api/property/75969
+
+
+Content API
+
+http://biappserver.jet2.com/J2BI.Services.Holidays.Content/swagger/ui/index#!/Property/Property_Get
+
+
+
+
+•	PIMS 
+o	LIVE: http://suppliersinternal.jet2holidays.com/Home/InternalIndex
+o	UAT: http://bitestweb.jet2.com/PIMS/Home/InternalIndex
+•	PCPS
+o	LIVE: http://biweb.jet2.com/pcps/property
+o	UAT: http://bitestweb.jet2.com/pcps/property
+•	Travel Docs
+o	LIVE: http://biweb.jet2.com/travel-docs/todo
+o	UAT: http://bitestweb.jet2.com/travel-docs/todo
+
+
+
+Sitecore test login
+
+https://testgcm.jet2holidays.com/sitecore/login
+Username: Rebecca Tucker
+Password: Password1
+ 
+
+Holiday Control
+
+http://stagecontrol.jet2holidays.com/
+
+skumar Password1

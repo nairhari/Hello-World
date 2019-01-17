@@ -1,5 +1,5 @@
 
-
+ffff
 PCPS API
 http://biappserver.jet2.com/J2BI.Holidays.PCPS.Content.Api/swagger/ui/index#!/Property/Property_Get
 
@@ -13,13 +13,13 @@ http://biappserver.jet2.com/J2BI.Services.Holidays.Content/swagger/ui/index#!/Pr
 
 
 
-•	PIMS 
+â€¢	PIMS 
 o	LIVE: http://suppliersinternal.jet2holidays.com/Home/InternalIndex
 o	UAT: http://bitestweb.jet2.com/PIMS/Home/InternalIndex
-•	PCPS
+â€¢	PCPS
 o	LIVE: http://biweb.jet2.com/pcps/property
 o	UAT: http://bitestweb.jet2.com/pcps/property
-•	Travel Docs
+â€¢	Travel Docs
 o	LIVE: http://biweb.jet2.com/travel-docs/todo
 o	UAT: http://bitestweb.jet2.com/travel-docs/todo
 
